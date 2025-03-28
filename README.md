@@ -1,6 +1,6 @@
 ## bitsbr-python
 
-Python client library for interacting with MDMCOIN blockchain platform. 
+Python client library for interacting with BITSBR blockchain platform. 
 
 
 ## Requirements
