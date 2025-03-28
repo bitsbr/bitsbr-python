@@ -9,7 +9,7 @@ Python client library for interacting with MDMCOIN blockchain platform.
 
 ## Installation
 ```bash
-pip install mdm-python
+pip install bitsbr-python
 ```
 
 ## Usage
