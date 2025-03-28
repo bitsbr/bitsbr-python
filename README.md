@@ -1,9 +1,7 @@
-## Waves-python
+## MDM-python
 
-Python client library for interacting with Waves blockchain platform. 
+Python client library for interacting with MDMCOIN blockchain platform. 
 
-## Package
-waves-python [![PyPI version](https://badge.fury.io/py/waves-python.svg)](https://badge.fury.io/py/waves-python)
 
 ## Requirements
 - [Python](https://www.python.org/) >= 3.9
@@ -11,7 +9,7 @@ waves-python [![PyPI version](https://badge.fury.io/py/waves-python.svg)](https:
 
 ## Installation
 ```bash
-pip install waves-python
+pip install mdm-python
 ```
 
 ## Usage
