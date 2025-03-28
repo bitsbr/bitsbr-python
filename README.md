@@ -1,4 +1,4 @@
-## MDM-python
+## bitsbr-python
 
 Python client library for interacting with MDMCOIN blockchain platform. 
 
